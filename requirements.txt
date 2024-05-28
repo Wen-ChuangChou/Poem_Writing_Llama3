@@ -1,0 +1,8 @@
+langchain
+pypdf
+transformers
+sentencepiece
+accelerate
+bitsandbytes
+llama-recipes
+huggingface_hub
